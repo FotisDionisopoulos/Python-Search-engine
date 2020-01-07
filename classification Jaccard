@@ -1,0 +1,56 @@
+Classifying: article4.txt 
+Category: talk.politics.mideast Jaccard similarity: 0.0492610837438
+Category: rec.autos Jaccard similarity: 0.0466045272969
+Category: talk.politics.mideast Jaccard similarity: 0.0462287104623
+Category: rec.autos Jaccard similarity: 0.045045045045
+Category: talk.politics.guns Jaccard similarity: 0.0445049954587
+***********************
+ 
+Classifying: article1.txt 
+Category: sci.med Jaccard similarity: 0.0440476190476
+Category: rec.sport.hockey Jaccard similarity: 0.0427807486631
+Category: soc.religion.christian Jaccard similarity: 0.0427010923535
+Category: soc.religion.christian Jaccard similarity: 0.041958041958
+Category: comp.graphics Jaccard similarity: 0.0418410041841
+***********************
+ 
+Classifying: article2.txt 
+Category: soc.religion.christian Jaccard similarity: 0.0754369825207
+Category: talk.politics.mideast Jaccard similarity: 0.0632222977566
+Category: talk.politics.guns Jaccard similarity: 0.0623960066556
+Category: rec.autos Jaccard similarity: 0.0622171945701
+Category: talk.politics.misc Jaccard similarity: 0.0616570327553
+***********************
+ 
+Classifying: article3.txt 
+Category: talk.politics.mideast Jaccard similarity: 0.053
+Category: talk.politics.guns Jaccard similarity: 0.0495238095238
+Category: talk.politics.guns Jaccard similarity: 0.0475113122172
+Category: talk.politics.guns Jaccard similarity: 0.0473372781065
+Category: soc.religion.christian Jaccard similarity: 0.0472222222222
+***********************
+ 
+Classifying: article5.txt 
+Category: talk.politics.mideast Jaccard similarity: 0.0595482546201
+Category: talk.politics.guns Jaccard similarity: 0.0578859060403
+Category: soc.religion.christian Jaccard similarity: 0.0577981651376
+Category: rec.autos Jaccard similarity: 0.0570539419087
+Category: sci.space Jaccard similarity: 0.0554561717352
+***********************
+ 
+Classifying: article6.txt 
+Category: talk.politics.guns Jaccard similarity: 0.0379041248606
+Category: sci.electronics Jaccard similarity: 0.0370994940978
+Category: talk.politics.guns Jaccard similarity: 0.0356652949246
+Category: soc.religion.christian Jaccard similarity: 0.0333692142088
+Category: talk.politics.mideast Jaccard similarity: 0.0323529411765
+***********************
+ 
+Classifying: article7.txt 
+Category: soc.religion.christian Jaccard similarity: 0.0561797752809
+Category: talk.politics.guns Jaccard similarity: 0.052534562212
+Category: talk.religion.misc Jaccard similarity: 0.0501567398119
+Category: rec.autos Jaccard similarity: 0.0500610500611
+Category: soc.religion.christian Jaccard similarity: 0.05
+***********************
+ 

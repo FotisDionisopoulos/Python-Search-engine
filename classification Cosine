@@ -1,0 +1,126 @@
+Classifying: article4.txt 
+Category: rec.autos Cosine similarity: 0.115300065604
+Category: rec.autos Cosine similarity: 0.111624743527
+Category: talk.politics.guns Cosine similarity: 0.0928509384878
+Category: rec.autos Cosine similarity: 0.0833929784175
+***********************
+ 
+Classifying: article1.txt 
+Category: rec.autos Cosine similarity: 0.0915130198806
+Category: talk.politics.mideast Cosine similarity: 0.0902647000712
+Category: talk.politics.misc Cosine similarity: 0.0889265481269
+Category: rec.motorcycles Cosine similarity: 0.0867786303381
+***********************
+ 
+Classifying: article2.txt 
+Category: rec.autos Cosine similarity: 0.0958134295048
+Category: talk.politics.mideast Cosine similarity: 0.0945510016482
+Category: talk.politics.misc Cosine similarity: 0.0942392830875
+Category: talk.politics.mideast Cosine similarity: 0.0924727074878
+***********************
+ 
+Classifying: article3.txt 
+Category: soc.religion.christian Cosine similarity: 0.12234766039
+Category: talk.religion.misc Cosine similarity: 0.100249634589
+Category: soc.religion.christian Cosine similarity: 0.0987549536217
+Category: soc.religion.christian Cosine similarity: 0.0964554028974
+***********************
+ 
+Classifying: article4.txt 
+Category: rec.autos Cosine similarity: 0.115300065604
+Category: rec.autos Cosine similarity: 0.111624743527
+Category: talk.politics.guns Cosine similarity: 0.0928509384878
+Category: rec.autos Cosine similarity: 0.0833929784175
+***********************
+ 
+Classifying: article1.txt 
+Category: rec.autos Cosine similarity: 0.0915130198806
+Category: talk.politics.mideast Cosine similarity: 0.0902647000712
+Category: talk.politics.misc Cosine similarity: 0.0889265481269
+Category: rec.motorcycles Cosine similarity: 0.0867786303381
+***********************
+ 
+Classifying: article2.txt 
+Category: rec.autos Cosine similarity: 0.0958134295048
+Category: talk.politics.mideast Cosine similarity: 0.0945510016482
+Category: talk.politics.misc Cosine similarity: 0.0942392830875
+Category: talk.politics.mideast Cosine similarity: 0.0924727074878
+***********************
+ 
+Classifying: article3.txt 
+Category: soc.religion.christian Cosine similarity: 0.12234766039
+Category: talk.religion.misc Cosine similarity: 0.100249634589
+Category: soc.religion.christian Cosine similarity: 0.0987549536217
+Category: soc.religion.christian Cosine similarity: 0.0964554028974
+***********************
+ 
+Classifying: article5.txt 
+Category: sci.med Cosine similarity: 0.105922822504
+Category: sci.med Cosine similarity: 0.097926448805
+Category: sci.med Cosine similarity: 0.0974076487427
+Category: sci.med Cosine similarity: 0.0939982067742
+***********************
+ 
+Classifying: article6.txt 
+Category: comp.windows.x Cosine similarity: 0.0951265710309
+Category: comp.os.ms-windows.misc Cosine similarity: 0.0823064514851
+Category: sci.space Cosine similarity: 0.0810611020407
+Category: soc.religion.christian Cosine similarity: 0.0803794227718
+***********************
+ 
+Classifying: article7.txt 
+Category: sci.electronics Cosine similarity: 0.116891944043
+Category: comp.os.ms-windows.misc Cosine similarity: 0.11283029317
+Category: sci.crypt Cosine similarity: 0.103553478539
+Category: sci.crypt Cosine similarity: 0.101516245843
+***********************
+ 
+Classifying: article4.txt 
+Category: rec.autos Cosine similarity: 0.115300065604
+Category: rec.autos Cosine similarity: 0.111624743527
+Category: talk.politics.guns Cosine similarity: 0.0928509384878
+Category: rec.autos Cosine similarity: 0.0833929784175
+***********************
+ 
+Classifying: article1.txt 
+Category: rec.autos Cosine similarity: 0.0915130198806
+Category: talk.politics.mideast Cosine similarity: 0.0902647000712
+Category: talk.politics.misc Cosine similarity: 0.0889265481269
+Category: rec.motorcycles Cosine similarity: 0.0867786303381
+***********************
+ 
+Classifying: article2.txt 
+Category: rec.autos Cosine similarity: 0.0958134295048
+Category: talk.politics.mideast Cosine similarity: 0.0945510016482
+Category: talk.politics.misc Cosine similarity: 0.0942392830875
+Category: talk.politics.mideast Cosine similarity: 0.0924727074878
+***********************
+ 
+Classifying: article3.txt 
+Category: soc.religion.christian Cosine similarity: 0.12234766039
+Category: talk.religion.misc Cosine similarity: 0.100249634589
+Category: soc.religion.christian Cosine similarity: 0.0987549536217
+Category: soc.religion.christian Cosine similarity: 0.0964554028974
+***********************
+ 
+Classifying: article5.txt 
+Category: sci.med Cosine similarity: 0.105922822504
+Category: sci.med Cosine similarity: 0.097926448805
+Category: sci.med Cosine similarity: 0.0974076487427
+Category: sci.med Cosine similarity: 0.0939982067742
+***********************
+ 
+Classifying: article6.txt 
+Category: comp.windows.x Cosine similarity: 0.0951265710309
+Category: comp.os.ms-windows.misc Cosine similarity: 0.0823064514851
+Category: sci.space Cosine similarity: 0.0810611020407
+Category: soc.religion.christian Cosine similarity: 0.0803794227718
+***********************
+ 
+Classifying: article7.txt 
+Category: sci.electronics Cosine similarity: 0.116891944043
+Category: comp.os.ms-windows.misc Cosine similarity: 0.11283029317
+Category: sci.crypt Cosine similarity: 0.103553478539
+Category: sci.crypt Cosine similarity: 0.101516245843
+***********************
+ 
